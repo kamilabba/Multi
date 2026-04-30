@@ -13,6 +13,7 @@ section{
         height: auto;
     }
     .top{
+        flex-direction: column;
     }
     .sectop{
         flex-direction: column;
