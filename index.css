@@ -16,6 +16,8 @@ section{
         flex-direction: column;
     }
     .sectop{
+        flex-direction: column;
+    }
     .select{
    margin: 10px;
 
