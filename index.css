@@ -16,7 +16,6 @@ section{
         flex-direction: column;
     }
     .sectop{
-        margin: 0;
     }
     .select{
    margin: 10px;
@@ -28,7 +27,6 @@ section{
     }
     .header nav{
      width: auto;
-     flex-direction: column;
      /* background-color: transparent; */
     }
     nav ul{
@@ -38,6 +36,7 @@ section{
     }
     .main{
         flex-direction: column;
+        display: flex;
         justify-content: center;
         align-items: center;
     }
