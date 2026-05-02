@@ -32,7 +32,6 @@ section{
      /* background-color: transparent; */
     }
     nav ul{
-        flex-direction: column;
         display: flex;
         text-align: center;
     }
