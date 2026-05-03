@@ -31,7 +31,6 @@ section{
     }
     nav ul{
         flex-direction: column;
-        display: flex;
         text-align: center;
     }
     .main{
