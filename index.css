@@ -70,7 +70,6 @@ section{
     .box1{
         padding: 20px 20px;
         display: flex;
-        justify-content: center;
         text-align: center;
     }
     .box1 .btn2 {
