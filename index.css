@@ -74,6 +74,7 @@ section{
         text-align: center;
     }
     .box1 .btn2 {
+        padding: 2px 2px;
     }
     .box1 .h2 h2{
        /* font-size: 10px; */
