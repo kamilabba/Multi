@@ -115,6 +115,7 @@ section{
     width: 90%;
     /* background-color: pink; */
     display: flex;
+    justify-content:space-between;
     align-items: center;
 }
 .multi{
