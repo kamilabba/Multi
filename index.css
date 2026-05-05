@@ -85,6 +85,7 @@ section{
       .box2{
         padding: 20px 20px;
         display: flex;
+        justify-content: center;
         text-align: center;
     }
     .box2 .h1 h1{
