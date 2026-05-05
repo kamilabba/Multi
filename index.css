@@ -97,7 +97,6 @@ section{
     .box2 .h2 h2{
        font-size: 23px;
        display: flex;
-       justify-content: center;
        text-align: center;
     }
 }
