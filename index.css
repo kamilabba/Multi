@@ -116,11 +116,12 @@ section{
     /* background-color: pink; */
     display: flex;
     justify-content:space-between;
+    align-items: center;
 }
 .multi{
     display: flex;
     /* padding: 6px; */
-    align-items: center;
+    /* align-items: center; */
     /* background-color: red; */
     /* margin: 10px; */
 }
