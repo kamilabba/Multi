@@ -142,6 +142,7 @@ padding: 15px 19px;
 }
 .serch button{
     padding: 6px 10px;
+    color: rgba(249, 216, 5, 0.859);
     background-color: white;
     border: 2px solid rgba(0, 0, 0, 0.221);
 }
