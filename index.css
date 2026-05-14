@@ -181,6 +181,7 @@ background-color: rgba(0, 0, 0, 0.745);
 nav{
     /* width: auto; */
     display: flex;
+    gap: 40px;
    align-items: center;
    color: white;
 
@@ -188,7 +189,6 @@ nav{
 nav ul{
     display: flex;
     gap: 60px;
-    list-style-type: none;
     width: 70%;
     /* background-color: red; */
 }
