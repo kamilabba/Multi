@@ -165,6 +165,7 @@ text-align: center
     /* margin-left: 80px; */
 }
 .o select{
+    background-color:  transparent;
     border: none;
 }
 header{
