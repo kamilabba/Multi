@@ -181,7 +181,6 @@ background-color: rgba(0, 0, 0, 0.745);
 nav{
     /* width: auto; */
     display: flex;
-    gap: 40px;
    align-items: center;
    color: white;
 
