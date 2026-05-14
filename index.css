@@ -196,7 +196,6 @@ nav ul{
  
 .logo{
     display: flex;
-    gap: 20px;
 }
 .logo span{
     color: yellow;
