@@ -190,7 +190,6 @@ nav ul{
     display: flex;
     gap: 60px;
     list-style-type: none;
-    width: 70%;
     /* background-color: red; */
 }
  
@@ -199,6 +198,7 @@ nav ul{
 }
 .logo span{
     color: yellow;
+    padding: 30px 20px;
 }
 
 .fatherm {
