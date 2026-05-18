@@ -294,6 +294,7 @@ nav ul{
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    gap: 18px;
 }
  .box2 .h2 h2{
     font-size: 15px;
