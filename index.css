@@ -232,7 +232,6 @@ nav ul{
 
 .box {
     width: 100%;
-    height: 100%;
     /* background-color: rgba(195, 224, 32, 0.748); */
     display:flex ;
     justify-content:center;
