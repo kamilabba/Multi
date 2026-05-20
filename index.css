@@ -292,6 +292,7 @@ nav ul{
     background-color: rgba(30, 138, 86, 0.782);
      display: flex;
     justify-content: center;
+    flex-direction: column;
     gap: 18px;
 }
  .box2 .h2 h2{
