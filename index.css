@@ -271,7 +271,6 @@ nav ul{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    gap: 18px;
     margin-bottom: 8px;
 }
 .btn2 button{
